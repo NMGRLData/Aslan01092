@@ -1,0 +1,95 @@
+{
+    "baselines": [
+        {
+            "blob": "QpuRE75X6AZCnbSQPqQ86UKf60o/XFpq",
+            "detector": "H2"
+        },
+        {
+            "blob": "QpuREz1gQipCnbSQPY0EwkKf60o8ecXq",
+            "detector": "H1"
+        },
+        {
+            "blob": "QpuREzyb3FdCnbSQu/td7EKf60q8jb9J",
+            "detector": "AX"
+        },
+        {
+            "blob": "QpuREz0EEKZCnbSQPXCpJUKf60o9sOFn",
+            "detector": "L1"
+        },
+        {
+            "blob": "QpuREz1ObMlCnbSQPY6lmEKf60o9OQDh",
+            "detector": "L2"
+        },
+        {
+            "blob": "QpuREz0wOOVCnbSQPTkg+UKf60o9PE9K",
+            "detector": "CDD"
+        }
+    ],
+    "data_collection_commit": "32f79e6dfb0ede0fd061e6d6c91ed5491dabe2d7",
+    "encoding": "base64",
+    "format": ">ff",
+    "signals": [
+        {
+            "blob": "QTv3eEA2mxJBTQxKQDssjEFeuilAJAdL",
+            "detector": "H2",
+            "isotope": "Ar41"
+        },
+        {
+            "blob": "QTv3eEWfwZtBTQxKRZ/B7EFeuilFn8Ix",
+            "detector": "H1",
+            "isotope": "Ar40"
+        },
+        {
+            "blob": "QTv3eEM+CTRBTQxKQz5/WUFeuilDPmDc",
+            "detector": "AX",
+            "isotope": "Ar39"
+        },
+        {
+            "blob": "QTv3eEA1Ru1BTQxKQDPAC0FeuilALoZ2",
+            "detector": "L1",
+            "isotope": "Ar38"
+        },
+        {
+            "blob": "QTv3eD6nC0NBTQxKPsnqNkFeuik+zR64",
+            "detector": "L2",
+            "isotope": "Ar37"
+        },
+        {
+            "blob": "QTv3eD6+JH5BTQxKPr9qO0Feuik+thxE",
+            "detector": "CDD",
+            "isotope": "Ar36"
+        }
+    ],
+    "sniffs": [
+        {
+            "blob": "P5OC/kOuBClADrNPQMUwg0BUZg5AOxkO",
+            "detector": "H2",
+            "isotope": "Ar41"
+        },
+        {
+            "blob": "P5OC/kVxKjtADrNPRZ++SUBUZg5Fn76L",
+            "detector": "H1",
+            "isotope": "Ar40"
+        },
+        {
+            "blob": "P5OC/kNMBEFADrNPQ2X6n0BUZg5DQybm",
+            "detector": "AX",
+            "isotope": "Ar39"
+        },
+        {
+            "blob": "P5OC/kBotwNADrNPQRCOIUBUZg5A0rXl",
+            "detector": "L1",
+            "isotope": "Ar38"
+        },
+        {
+            "blob": "P5OC/kBQTkVADrNPQI6kI0BUZg5AJvu6",
+            "detector": "L2",
+            "isotope": "Ar37"
+        },
+        {
+            "blob": "P5OC/j6SUutADrNPPrXzjEBUZg4+uiqP",
+            "detector": "CDD",
+            "isotope": "Ar36"
+        }
+    ]
+}
